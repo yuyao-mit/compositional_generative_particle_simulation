@@ -1,10 +1,8 @@
-# Deep Faker Project
+# Compositional Generative Physical Dynamics Learning
 
 ## Contributors
-**Yu Yao**  **Yilun Du**
-MIT            Harvard
-
----
+**Yu Yao** | MIT
+**Yilun Du** | Harvard
 
 ---
 

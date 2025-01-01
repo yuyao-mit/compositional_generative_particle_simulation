@@ -1,7 +1,10 @@
 # Compositional Generative Physical Dynamics Learning
 
 ## Contributors
-**Yu Yao** | MIT \\
+
+**Yu Yao** | MIT 
+
+
 **Yilun Du** | Harvard
 
 ---

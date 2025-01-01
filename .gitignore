@@ -16,3 +16,7 @@ __pycache__/
 
 # Any dataset
 *.zip
+
+# Any video
+*.mp4
+*.gif

@@ -1,4 +1,4 @@
-# Compositional Generative Physical Dynamics Learning
+# COMPOSITIONAL INVERSE GENERATIVE DESIGN FOR PHYSICAL DYNAMICS
 
 ## Contributors
 
